@@ -1,0 +1,5 @@
+.container {
+  /* altura minima 60% do usuario  */
+  min-height: 60vh;
+  margin-bottom: 5em;
+}
